@@ -9,7 +9,7 @@
         <div class="flex h-16 items-center justify-between">
           <div class="flex items-center gap-3">
             <span class="inline-flex h-8 w-8 items-center justify-center rounded-md bg-slate-900 text-white text-sm font-semibold dark:bg-white dark:text-slate-900">FT</span>
-            <span class="font-semibold">Fakultas Teknik</span>
+            <span class="font-semibold">Fakultas </span>
           </div>
           <div class="flex items-center gap-1">
             <div class="hidden md:flex items-center gap-1">
